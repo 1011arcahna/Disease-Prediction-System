@@ -1,0 +1,9 @@
+age,gender,bmi,blood_pressure,glucose,cholesterol,smoking,alcohol,physical_activity,disease
+25,F,22.4,120,85,180,No,No,High,No
+45,M,28.7,140,95,220,Yes,Yes,Low,Yes
+39,F,31.2,135,105,200,No,No,Medium,Yes
+50,M,26.4,150,110,230,Yes,Yes,Low,Yes
+29,F,21.8,118,80,170,No,No,High,No
+60,M,32.5,160,125,240,Yes,Yes,Low,Yes
+42,F,29.9,138,100,210,No,Yes,Medium,Yes
+35,M,24.5,125,90,190,No,No,High,No
